@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  baseUrl: 'https://desolate-ocean-24021.herokuapp.com/api/'
+  // baseUrl : 'http://localhost:8080/api/'
 };
 
 /*
